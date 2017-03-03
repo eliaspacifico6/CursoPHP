@@ -8,6 +8,8 @@
 	<h1>Testando PHP</h1>
 <?php
 echo "Olá, Mundo";
+$nome = Elias;
+echo nome
 ?>
 
 </body>
