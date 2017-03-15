@@ -8,8 +8,12 @@
 <body>
 <div>
     <?php
+        $txt= "elias Guimarães Pacífico";
+        $tamanho=strlen($txt);
 
+        echo $tamanho;
     ?>
 </div>
 </body>
 </html>
+ 

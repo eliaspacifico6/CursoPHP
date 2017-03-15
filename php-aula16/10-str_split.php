@@ -8,8 +8,11 @@
 <body>
 <div>
     <?php
-
+        $nome = "Elias";
+        $vetor = str_split($nome);
+        print_r($vetor);
     ?>
 </div>
 </body>
 </html>
+ 

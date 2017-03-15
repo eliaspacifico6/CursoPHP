@@ -12,7 +12,7 @@
         $pr = 4.5;
         echo "O $p custa R$ " . number_format($pr,2);
 
-        printf ("O %s custa R$ %.2f ", $p, $pr);
+        printf (" O %s custa R$ %.2f ", $p, $pr);
 
         /* função pritf
             %d = valor decimal (positivo ou negatvo)

@@ -8,7 +8,12 @@
 <body>
 <div>
     <?php
+    $nome="Elias";
+    $vetor = trim($nome);
+    $q = strlen($nome);
 
+    print_r($vetor);
+    print_r($q);
     ?>
 </div>
 </body>

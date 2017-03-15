@@ -8,8 +8,11 @@
 <body>
 <div>
     <?php
+        $letra = chr(67);
 
+        echo "A letra de codgo 67 é: $letra";
     ?>
 </div>
 </body>
 </html>
+ 

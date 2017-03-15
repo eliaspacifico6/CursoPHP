@@ -8,8 +8,13 @@
 <body>
 <div>
     <?php
-
+        $nome="   elias guimarães Pacífico   ";
+        echo strlen($nome);
+        $novo=rtrim($nome);
+        echo $novo;
+        echo (strlen($novo));
     ?>
 </div>
 </body>
 </html>
+ 
